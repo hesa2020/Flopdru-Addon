@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Flopdru
+## Version: 0.0.1
+## Notes: Sets flopdru custom UI settings
+
+Init.lua
